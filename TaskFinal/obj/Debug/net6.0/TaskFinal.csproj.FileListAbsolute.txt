@@ -1,0 +1,15 @@
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\obj\Debug\net6.0\TaskFinal.csproj.AssemblyReference.cache
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\obj\Debug\net6.0\TaskFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\obj\Debug\net6.0\TaskFinal.AssemblyInfoInputs.cache
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\obj\Debug\net6.0\TaskFinal.AssemblyInfo.cs
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\obj\Debug\net6.0\TaskFinal.csproj.CoreCompileInputs.cache
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\bin\Debug\net6.0\TaskFinal.exe
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\bin\Debug\net6.0\TaskFinal.deps.json
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\bin\Debug\net6.0\TaskFinal.runtimeconfig.json
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\bin\Debug\net6.0\TaskFinal.dll
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\bin\Debug\net6.0\ref\TaskFinal.dll
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\bin\Debug\net6.0\TaskFinal.pdb
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\obj\Debug\net6.0\TaskFinal.dll
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\obj\Debug\net6.0\ref\TaskFinal.dll
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\obj\Debug\net6.0\TaskFinal.pdb
+C:\Users\79217\Desktop\Обучение\FinalWork\FinalWork\TaskFinal\obj\Debug\net6.0\TaskFinal.genruntimeconfig.cache
