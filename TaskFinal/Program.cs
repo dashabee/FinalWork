@@ -1,49 +1,42 @@
-﻿//  Написать программу, которая из имеющегося массива целых чисел формирует массив из четных чисел. 
+﻿string [] textArray = {"final", "work", "for", "geek", "brains", "!"};
 
-int [] CreateArray (int n)
+void ShowArray (string [] array)
 {
-    int [] array = new int [n];
-    for (int i = 0; i < n; i ++)
-    {
-            array [i] = new Random(). Next (1, 99);
-    }
-    return array;
-}
-
-void ShowArray (int [] array)
-{
+    Console.Write("[ ");
     for (int i = 0; i < array.Length; i++)
     {
-            Console.Write ($"{array[i]} ");
+            if (i == (array.Length - 1))  Console.Write ($"{array[i]}");
+            else Console.Write ($"{array[i]}, ");
+            
         }
+         Console.Write(" ]");
 }
 
-int [] ArrayEven (int [] newArray)
+string [] StringArrayFromSomeSumbols (string [] array)
 {
     int count = 0;
     int arrayLength = 0;
-    for (int i = 0; i < newArray.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-            if (newArray[i] % 2 == 0) arrayLength++;
+            if (array[i].Length <= 3) arrayLength++;
         }
 
-    int [] arrayEven = new int [arrayLength];
+    string [] arrayString = new string [arrayLength];
 
-    for (int j = 0; j < newArray.Length; j++)
+    for (int j = 0; j < array.Length; j++)
     {
         
-        if (newArray[j] % 2 == 0) 
+        if (array[j].Length <= 3) 
         {
-            arrayEven[count] = newArray[j];
+            arrayString[count] = array[j];
             count++;
         }
     }
-    return arrayEven;
+    return arrayString;
     
 }
 
-int [] arr = CreateArray(6);
-ShowArray(arr);
-Console.WriteLine();
-int [] arrEven = ArrayEven (arr);
-ShowArray (arrEven);
+ShowArray(textArray);
+Console.Write (" -> ");
+string [] newTextArray = StringArrayFromSomeSumbols (textArray);
+ShowArray(newTextArray);
